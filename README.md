@@ -14,4 +14,4 @@ File manager with gui.
 - [ ] Check buttons
 
 ## Things i used from other user:
-- [SeaBenSea's File Manager](https://github.com/SeaBenSea/FileManager) : Main funcs.
+- [SeaBenSea's File Manager](https://github.com/SeaBenSea/FileManager) : Main functions.
