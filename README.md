@@ -6,7 +6,7 @@ File manager with gui.
 - Same file error
 
 ## TO-DO:
-[ ] Personal file
-[ ] Gui improvements
-[ ] Upload thing
-[ ] Check buttons
+- [ ] Personal file
+- [ ] Gui improvements
+- [ ] Upload thing
+- [ ] Check buttons
